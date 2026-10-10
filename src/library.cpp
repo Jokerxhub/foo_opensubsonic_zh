@@ -35,8 +35,8 @@ using json = nlohmann::json;
 
 constexpr const char *k_library_scope = "library";
 constexpr const char *k_remote_playlist_scope = "remote-playlist";
-constexpr const char *k_library_playlist_name = "OpenSubsonic Library";
-constexpr const char *k_remote_playlist_prefix = "OpenSubsonic: ";
+constexpr const char *k_library_playlist_name = "私域流媒体";
+constexpr const char *k_remote_playlist_prefix = "流媒体: ";
 
 const GUID guid_mainmenu_group_opensubsonic = {
 	0x9a92cfbf,
